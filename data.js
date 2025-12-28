@@ -5,27 +5,27 @@ const products = [
         name: "Apple iPhone 15 Pro Max",
         category: "Electronics",
         images: [
-            "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
-            "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
-            "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=800&q=80",
-            "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=800&q=80"
+            "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         colorImages: {
             "Natural Titanium": [
-                "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
-                "https://images.unsplash.com/photo-1678652197831-2d180705cd2c?w=800&q=80"
+                "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
             ],
             "Blue Titanium": [
-                "https://images.unsplash.com/photo-1592286927505-b0501e63d30a?w=800&q=80",
-                "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=800&q=80"
+                "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg?auto=compress&cs=tinysrgb&w=800"
             ],
             "White Titanium": [
-                "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=800&q=80",
-                "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=800&q=80"
+                "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=800"
             ],
             "Black Titanium": [
-                "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=800&q=80",
-                "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=800&q=80"
+                "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg?auto=compress&cs=tinysrgb&w=800",
+                "https://images.pexels.com/photos/1092671/pexels-photo-1092671.jpeg?auto=compress&cs=tinysrgb&w=800"
             ]
         },
         price: 134900,
@@ -82,10 +82,10 @@ const products = [
         name: "Sony WH-1000XM5 Wireless Headphones",
         category: "Audio",
         images: [
-            "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&q=80",
-            "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&q=80",
-            "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
-            "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&q=80"
+            "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/3587477/pexels-photo-3587477.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 26990,
         originalPrice: 34990,
@@ -139,10 +139,10 @@ const products = [
         name: "Samsung 55\" Crystal 4K UHD Smart TV",
         category: "Electronics",
         images: [
-            "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80",
-            "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80",
-            "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=800&q=80",
-            "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=800&q=80"
+            "https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1201993/pexels-photo-1201993.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1201995/pexels-photo-1201995.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1201999/pexels-photo-1201999.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 44990,
         originalPrice: 64990,
@@ -198,10 +198,10 @@ const products = [
         name: "Nike Air Zoom Pegasus 40 Running Shoes",
         category: "Fashion",
         images: [
-            "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80",
-            "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&q=80",
-            "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=800&q=80",
-            "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80"
+            "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 10795,
         originalPrice: 12795,
@@ -258,10 +258,10 @@ const products = [
         name: "Dyson V15 Detect Absolute Cordless Vacuum",
         category: "Home Appliances",
         images: [
-            "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&q=80",
-            "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&q=80",
-            "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?w=800&q=80",
-            "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?w=800&q=80"
+            "https://images.pexels.com/photos/4107278/pexels-photo-4107278.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/4107279/pexels-photo-4107279.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/4107280/pexels-photo-4107280.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/4107281/pexels-photo-4107281.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 58900,
         originalPrice: 65900,
@@ -315,10 +315,10 @@ const products = [
         name: "Levi's Men's 511 Slim Fit Jeans",
         category: "Fashion",
         images: [
-            "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&q=80",
-            "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&q=80",
-            "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=800&q=80",
-            "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&q=80"
+            "https://images.pexels.com/photos/1082526/pexels-photo-1082526.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1082529/pexels-photo-1082529.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1082527/pexels-photo-1082527.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 2999,
         originalPrice: 4999,
@@ -377,10 +377,10 @@ const products = [
         name: "Canon EOS R6 Mark II Mirrorless Camera",
         category: "Electronics",
         images: [
-            "https://images.unsplash.com/photo-1606980707986-1b0e1c407b4f?w=800&q=80",
-            "https://images.unsplash.com/photo-1606980707986-1b0e1c407b4f?w=800&q=80",
-            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80",
-            "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+            "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/90945/pexels-photo-90945.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/90947/pexels-photo-90947.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/90948/pexels-photo-90948.jpeg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 229990,
         originalPrice: 249990,
@@ -435,10 +435,10 @@ const products = [
         name: "Apple MacBook Air M2 13.6-inch",
         category: "Electronics",
         images: [
-            "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
-            "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=800&q=80",
-            "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80",
-            "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=800&q=80"
+            "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/18104/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800"
         ],
         price: 114900,
         originalPrice: 119900,
